@@ -14,6 +14,7 @@ resources:
   - 99c593d7-8f34-4406-86b8-51d6b09c74b8
   - d39a0427-cdef-4ab1-b787-525e3ac47fc2
   - 1e3d244b-5213-4044-aa71-b071e2b2586b
+  - fbcb488d-e6ed-4459-afe5-6c9b2340885b
   - 1b803db2-d81f-4d1a-af41-ab9329cadd1c
   - fea92337-350b-49e6-9fc3-554ff5b6391a
   - b6de65d1-1360-47fb-b953-6ef2d29410c6
@@ -24,6 +25,7 @@ resources:
   - 6adb112e-512f-48bf-b08b-9a96dc7db421
   - b82c7f68-9ecc-4e0b-9690-23a9c928ee28
   - d931e1cc-29e8-4551-b912-3e1e7e669eea
+  - 20e4ae49-3371-4ce9-8af8-62d2e8f0fb96
   - c140de2e-b26e-44c3-bb3b-1970d6e2b735
   - fe6b4ce0-db32-4451-b578-3bd2b04f44d0
   - 2dadba6a-a939-4e04-9ca3-2e7a079148b8

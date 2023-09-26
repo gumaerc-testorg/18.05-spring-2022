@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Problem Set 5 Solutions
+title: 18.05 Introduction to Probability and Statistics (S22), Problem Set 05 Solutions
 uid: 0c1f85f5-eb3b-41e6-9634-cf6b4f438c90
 video_files:
   archive_url: ''

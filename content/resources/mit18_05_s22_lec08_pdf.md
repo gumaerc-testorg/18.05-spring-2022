@@ -2,19 +2,20 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_pset06.pdf
-file_size: 63897
+file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_lec08.pdf
+file_size: 88638
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets with Solutions
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Problem Set 06
-uid: 349e9fa1-91f8-4915-b68e-32aabc5b9e64
+title: '18.05 Introduction to Probability and Statistics (S22), Class 08 Slides: Exam
+  1 Review'
+uid: fbcb488d-e6ed-4459-afe5-6c9b2340885b
 video_files:
   archive_url: ''
   video_captions_file: ''
