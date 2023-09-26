@@ -19,19 +19,23 @@ leftnav:
   name: In-Class Questions and Solutions
   pageRef: /lists/in-class-questions-and-solutions
   weight: 50
-- identifier: aae54385-2ab5-43f7-acb3-b7898be84df1
-  name: Problem Sets
-  pageRef: /lists/problem-sets
+- identifier: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
+  name: R Studio Resources
+  pageRef: /pages/studio-resources
   weight: 60
+- identifier: 8dd95eb1-f68a-4554-ab43-cb1236fc58ee
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 70
 - identifier: c89ea3c3-84d5-4995-9c5a-7fe79d1c133c
   name: Exams
   pageRef: /lists/exams
-  weight: 70
-- identifier: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
-  name: Studio Resources
-  pageRef: /pages/studio-resources
   weight: 80
+- identifier: 01564578-7e5b-42da-aaa0-50505b243e81
+  name: Materials for Teachers
+  pageRef: /lists/materials-for-teachers
+  weight: 90
 - identifier: c87974e0-c253-4a50-8148-0b92730b0131
   name: Related Resources
   pageRef: /pages/related-resources
-  weight: 90
+  weight: 100

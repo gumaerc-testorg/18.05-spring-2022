@@ -1,6 +1,10 @@
 ---
 content_type: resource-list
-description: ''
+description: Listed in the following table are practice exam questions and solutions,
+  and the exam questions and solutions. Additional materials for exam preparation
+  can be found under the class sessions dedicated to exam review. Students were encouraged
+  to prepare a cheat sheet on one side of an 8 x 11 piece of paper to use for reference
+  during each exam.
 draft: false
 resources:
   content:

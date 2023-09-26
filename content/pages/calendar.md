@@ -5,6 +5,8 @@ draft: false
 title: Calendar
 uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 ---
+Students are required to attend class sessions and studio sessions, the latter of which take place on Friday. Typically, studio sessions are used to introduce longer problems and the use of R.
+
 ## Week 1
 
 - Class 1: Counting
@@ -84,12 +86,12 @@ uid: 035994aa-68b0-4602-8ac5-cedd472369fa
 ***Key Date:*** Problem set 9 due
 
 - Class 20: Comparison of Bayes and NHST
-- Class 22: Confidence Intervals
+- Review for Exam 2
 - Studio 9: Simulating Confidence Intervals
 
 ## Week 12
 
-- Review for Exam 2 
+- Class 22: Confidence Intervals 
 - Exam 2 
 - Studio 10: Bootstrap Confidence Intervals
 
