@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: This section provides R studio resources for the course, including the
-  instruction for each studio, supporting files, solutions, and studio for teachers.
+description: This page provides R studio resources for the course, including the instruction
+  for each studio, supporting files, and solutions.
 draft: false
 title: R Studio Resources
 uid: d1616c8c-ad0b-4679-b5a8-4001eaeef45a

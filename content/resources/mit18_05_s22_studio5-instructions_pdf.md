@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments with Examples
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), R Studio 5 Instructions
+title: 18.05 Introduction to Probability and Statistics (S22), R Studio 5
 uid: bec41d4a-dbd5-491b-97b2-e87895293731
 video_files:
   archive_url: ''

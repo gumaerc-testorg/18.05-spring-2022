@@ -6,9 +6,9 @@ file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit1
 file_size: 54214
 file_type: image/jpeg
 image_metadata:
-  caption: "Jon\u2019s dice. Jon has three six-sided dice with unusual numbering.\
-    \ A game consists of two players each choosing a die. They roll once and the highest\
-    \ number wins. Which die would you choose? (Image from class slides.)"
+  caption: Jon has three six-sided dice with unusual numbering. A game consists of
+    two players each choosing a die. They roll once and the highest number wins. Which
+    die would you choose? (Image from class slides.)
   credit: ''
   image-alt: Three six-sided dice with all sides showing in a plane.
 learning_resource_types: []

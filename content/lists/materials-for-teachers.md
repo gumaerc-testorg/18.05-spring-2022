@@ -1,7 +1,7 @@
 ---
 content_type: resource-list
 description: ''
-draft: false
+draft: true
 resources:
   content:
   - 3184a6eb-5bc6-4e3e-9bc7-baad42ea4171
@@ -17,6 +17,6 @@ resources:
   - 011569f4-859f-478d-aae0-8d38d81f9775
   - 108ca2b7-8d0a-406c-a0d7-a042299f8e94
   website: introduction-to-probability-and-statistics
-title: Materials for Teachers
+title: Materials for Teachers (TO BE DELETED)
 uid: 01564578-7e5b-42da-aaa0-50505b243e81
 ---

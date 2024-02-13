@@ -9,11 +9,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.05 Introduction to Probability and Statistics (S22), Class 06b: Problem
-  Solutions '
+  Solutions'
 uid: 25b6ca3f-1194-4202-a214-5ae0070370cb
 video_files:
   archive_url: ''

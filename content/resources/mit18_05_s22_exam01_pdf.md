@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 Introduction to Probability and Statistics (S22), Exam 1 '
+title: 18.05 Introduction to Probability and Statistics (S22), Exam 1
 uid: 635310d3-667a-40f2-aeab-26f6578aefeb
 video_files:
   archive_url: ''
