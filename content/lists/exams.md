@@ -3,9 +3,9 @@ content_type: resource-list
 description: Listed in the following table are practice exam questions and solutions,
   and the exam questions and solutions. Additional materials for exam preparation
   can be found under the class sessions dedicated to exam review. Students were encouraged
-  to prepare a cheat sheet on one side of an 8 x 11 piece of paper to use for reference
-  during each exam.
-draft: false
+  to prepare a cheat sheet on one side of an 8 1/2 x 11 piece of paper to use for
+  reference during each exam.
+draft: true
 resources:
   content:
   - 635310d3-667a-40f2-aeab-26f6578aefeb
@@ -31,6 +31,6 @@ resources:
   - e4c27008-faaf-4c6d-ae7f-01513bda12c6
   - e43f5acb-25b5-4f59-b523-c32ba5ac8138
   website: introduction-to-probability-and-statistics
-title: Exams
+title: Exams (TO BE DELETED)
 uid: c89ea3c3-84d5-4995-9c5a-7fe79d1c133c
 ---

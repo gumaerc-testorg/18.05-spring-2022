@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), R Quiz Practice Instructions
+title: 18.05 Introduction to Probability and Statistics (S22), R Quiz Practice
 uid: 70e28a5a-d20e-4a9f-a752-68243718f41c
 video_files:
   archive_url: ''

@@ -9,11 +9,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.05 Introduction to Probability and Statistics (S22), Class 17: Problem
-  Solutions '
+  Solutions'
 uid: 768fa3f4-99da-49f6-b319-411f0101a70e
 video_files:
   archive_url: ''

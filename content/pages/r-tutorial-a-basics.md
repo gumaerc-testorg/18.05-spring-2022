@@ -2,7 +2,7 @@
 content_type: page
 description: This section is a basic R tutorial.
 draft: false
-title: 'R Tutorial a: Basics'
+title: 'R Tutorial A: Basics'
 uid: ad455e5d-07cd-408f-bfd2-cf7c26500738
 ---
 ## Time

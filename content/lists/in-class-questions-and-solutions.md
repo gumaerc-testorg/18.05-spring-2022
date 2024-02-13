@@ -1,7 +1,7 @@
 ---
 content_type: resource-list
 description: This list includes concept questions, board questions, and their solutions.
-draft: false
+draft: true
 resources:
   content:
   - 03f29964-ba75-4ec4-bc78-fdd13ad648a4
@@ -12,8 +12,6 @@ resources:
   - bf2682c8-abb9-4ce0-a9f7-4aa819d23dcd
   - 4f1a6f56-276e-4d24-8bb5-093521ab07b2
   - a39c9542-2248-4ce2-ae38-104a63eb7b6f
-  - c9cd3cd6-d421-42f2-b740-4411e64ffa97
-  - 1ea3c24e-1c2b-4ff5-bbbc-56b21ac43ac4
   - 1e7e612b-b173-4015-b3ca-a27f0fb1c96a
   - e92f7357-fa59-475b-afe2-0106ae08dc51
   - dbd1abb2-921d-4d20-aeb9-fad108f980a5
@@ -49,6 +47,6 @@ resources:
   - 020979a0-1b4a-4e7c-bf13-f5255e14a724
   - f749112b-6a32-4b40-8646-00bac8ebeb2b
   website: introduction-to-probability-and-statistics
-title: In-Class Questions and Solutions
+title: In-Class Questions and Solutions (TO BE DELETED)
 uid: f809c5a5-bdd8-4b1c-977c-e60ec9970b0f
 ---

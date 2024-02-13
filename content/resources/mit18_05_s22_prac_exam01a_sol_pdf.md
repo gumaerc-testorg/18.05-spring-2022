@@ -9,10 +9,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Practice Exam 1a Solutions
+title: '18.05 Introduction to Probability and Statistics (S22), Exam 1 Review: practice
+  1: solutions'
 uid: 161a127b-40ed-413b-84ec-3615c5516121
 video_files:
   archive_url: ''
