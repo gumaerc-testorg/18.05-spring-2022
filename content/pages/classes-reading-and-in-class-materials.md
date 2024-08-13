@@ -166,7 +166,7 @@ Some of the classes use R code and R studios. You can find these materials from 
 - {{% resource_link "a86b34d5-7d2c-4d8c-afa6-62c79863f6f3" "Class 16a Reading: Choosing Priors (PDF)" %}}             
 - {{% resource_link "30cc5b84-d12b-4fce-b5ad-3e2b2628a7cb" "Class 16b Reading: Probability Intervals (PDF)" %}} 
 - [Class 16 online reading questions](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/courseware/week9/class16/3?activate_block_id=block-v1%3AMITx%2B18.05r_10%2B2022_Summer%2Btype%40vertical%2Bblock%40class16-rq1-vertical) 
-- {{% resource_link "3af8ab9f-d9e9-4288-8e26-99ed9d90dd04" "Class 16 Slides: Choosing Priors; Probability Intervals (PDF)" %}}
+- {{% resource_link "85636193-e6fa-45c0-a700-8df01b6e122a" "Class 16 Slides: Choosing Priors; Probability Intervals (PDF)" %}}
     - {{% resource_link "a33dd09b-29d7-48bd-b2ba-8ce494833268" "Class 16 In-class Problems (PDF)" %}}
     - {{% resource_link "82a3973b-66a4-46df-9228-b98d2ebd0383" "Class 16 In-class Problem Solutions (PDF)" %}}  
 
