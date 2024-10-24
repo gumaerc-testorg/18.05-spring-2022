@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05s22_practice-ex1-allquest-qa.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05s22_practice-ex1-allquest-qa.pdf
 file_size: 480766
 file_type: application/pdf
 image_metadata:
