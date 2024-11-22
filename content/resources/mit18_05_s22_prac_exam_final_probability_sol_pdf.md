@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_prac_exam_final_probability_sol.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_prac_exam_final_probability_sol.pdf
 file_size: 217244
 file_type: application/pdf
 image_metadata:

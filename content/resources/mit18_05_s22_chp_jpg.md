@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_chp.jpg
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_chp.jpg
 file_size: 54214
 file_type: image/jpeg
 image_metadata:
