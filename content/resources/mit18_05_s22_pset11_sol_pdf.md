@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_pset11_sol.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_pset11_sol.pdf
 file_size: 121553
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Problem Set 11 Solutions
+title: Problem Set 11 Solutions
 uid: 8a253e1e-e5bf-4c6a-bcb4-03cc17ef1356
 video_files:
   archive_url: ''

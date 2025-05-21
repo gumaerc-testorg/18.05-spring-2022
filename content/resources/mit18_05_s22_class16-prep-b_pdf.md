@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_class16-prep-b.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_class16-prep-b.pdf
 file_size: 115185
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 S22 Reading 16b: Probability intervals'
+title: 'Reading 16b: Probability intervals'
 uid: 30cc5b84-d12b-4fce-b5ad-3e2b2628a7cb
 video_files:
   archive_url: ''

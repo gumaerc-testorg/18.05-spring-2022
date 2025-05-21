@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_exam02.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_exam02.pdf
 file_size: 185255
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Exam 2
+title: Exam 2
 uid: c272715a-d522-4d3b-a220-0d69622b4712
 video_files:
   archive_url: ''

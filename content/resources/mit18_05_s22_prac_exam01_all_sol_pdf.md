@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_prac_exam01_all_sol.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_prac_exam01_all_sol.pdf
 file_size: 480778
 file_type: application/pdf
 image_metadata:
@@ -13,8 +13,7 @@ learning_resource_types:
 - Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 Introduction to Probability and Statistics (S22), Exam 1 Review: all
-  questions: solutions'
+title: 'Exam 1 Review: All Questions: Solutions'
 uid: c8704030-7f00-4575-84a8-60bb18240b07
 video_files:
   archive_url: ''
