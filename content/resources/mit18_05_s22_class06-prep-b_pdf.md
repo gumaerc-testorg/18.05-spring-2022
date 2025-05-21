@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_class06-prep-b.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_class06-prep-b.pdf
 file_size: 1157868
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 S22 Reading 6b: Central Limit Theorem and the Law of Large Numbers'
+title: 'Reading 6b: Central Limit Theorem and the Law of Large Numbers'
 uid: e43612ac-26c2-4100-a280-a02f37196d07
 video_files:
   archive_url: ''

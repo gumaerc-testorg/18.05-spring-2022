@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_exam2_nhst.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_exam2_nhst.pdf
 file_size: 189179
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Summary of NHST
+title: Summary of NHST
 uid: ba972f79-f03c-4dec-86e3-34e716847650
 video_files:
   archive_url: ''
