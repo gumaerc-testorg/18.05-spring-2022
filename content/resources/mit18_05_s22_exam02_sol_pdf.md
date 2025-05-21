@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_exam02_sol.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_exam02_sol.pdf
 file_size: 128052
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Exam 2 Solutions
+title: Exam 2 Solutions
 uid: 333fb578-b1b0-434f-900a-bb5e52b8113c
 video_files:
   archive_url: ''

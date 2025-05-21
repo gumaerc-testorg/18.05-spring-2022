@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_pset03.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_pset03.pdf
 file_size: 71328
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.05 Introduction to Probability and Statistics (S22), Problem Set 03
+title: Problem Set 03
 uid: 77cb68f9-b19f-4687-99ae-a7b8098ee0c1
 video_files:
   archive_url: ''

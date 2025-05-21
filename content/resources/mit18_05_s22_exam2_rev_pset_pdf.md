@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_exam2_rev_pset.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_exam2_rev_pset.pdf
 file_size: 142284
 file_type: application/pdf
 image_metadata:
@@ -13,8 +13,7 @@ learning_resource_types:
 - Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 Introduction to Probability and Statistics (S22), Exam 2 Review: In-class:
-  Problems'
+title: 'Exam 2 Review: In-class: Problems'
 uid: d7c1a14b-80f4-47d2-9b8c-eee0f6db273c
 video_files:
   archive_url: ''

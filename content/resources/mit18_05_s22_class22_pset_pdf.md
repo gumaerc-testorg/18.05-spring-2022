@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_class22_pset.pdf
+file: courses/introduction-to-probability-and-statistics/mit18_05_s22_class22_pset.pdf
 file_size: 62516
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.05 Introduction to Probability and Statistics (S22), Class 22: Problems'
+title: 'Class 22: Problems'
 uid: b668eb39-9959-4178-b784-32b3229efdb4
 video_files:
   archive_url: ''
