@@ -44,10 +44,11 @@
     "Exams with Solutions",
     "Readings",
     "Activity Assignments with Examples",
-    "Exam Materials",
+    "Supplemental Exam Materials",
     "Tools",
     "Instructor Insights"
   ],
   "site_uid": "5c8e7edf-85b3-4365-8a0c-ce24f816baca",
-  "site_short_id": "18.05-spring-2022"
+  "site_short_id": "18.05-spring-2022",
+  "site_url_path": "courses/18-05-introduction-to-probability-and-statistics-spring-2022"
 }

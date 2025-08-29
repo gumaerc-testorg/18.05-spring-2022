@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/introduction-to-probability-and-statistics/mit18_05_s22_rquizpractice-instructions.pdf
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_rquizpractice-instructions.pdf
 file_size: 87991
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: R Quiz Practice
