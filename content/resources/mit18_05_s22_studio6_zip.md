@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/introduction-to-probability-and-statistics/mit18_05_s22_studio6.zip
+file: /ol-ocw-studio-app/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_studio6.zip
 file_size: 758968
 file_type: application/zip
 image_metadata:
