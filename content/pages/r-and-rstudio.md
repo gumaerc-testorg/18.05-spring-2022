@@ -9,7 +9,7 @@ R is an industrial strength open-source statistical package. We’ll use it for 
 
 R takes 2 minutes to install. Here are the steps:
 
-1. Go to [the main page of the R project](http://www.r-project.org/). Click the ‘CRAN’ link on the left. Then choose any of the mirror sites.
+1. Go to {{% resource_link "d498ef14-e3a3-4ad3-812e-a6508cbe6562" "the main page of the R project" %}}. Click the ‘CRAN’ link on the left. Then choose any of the mirror sites.
 2. Download and install.
     - On a Mac, download the latest version that works for your machine. You double-click to install.
     - On Windows, just follow the instructions.
@@ -17,18 +17,18 @@ R takes 2 minutes to install. Here are the steps:
 
 We will also be using RStudio which provides an integrated environment for working in R. It is also a 2-minute install. Here are the steps.
 
-1. Go to the [Download RStudio page](http://www.rstudio.com/ide/download/desktop) and choose the version for your computer (probably the one "recommended for your system").
+1. Go to the {{% resource_link "2f391154-ef1c-4214-913a-d017fad80c5e" "Download RStudio page" %}} and choose the version for your computer (probably the one "recommended for your system").
 2. Download and install.
     - On a Mac, open the downloaded .dmg file and copy the RStudio application to your Applications folder.
     - On Windows, install from the downloaded .exe.
     - If you’re using Linux, you should be able to figure out how to install RStudio.
 
-If you are interested you can find lots of information and tutorials on R from [the main page of the R project](http://www.r-project.org/).
+If you are interested you can find lots of information and tutorials on R from {{% resource_link "d498ef14-e3a3-4ad3-812e-a6508cbe6562" "the main page of the R project" %}}.
 
 ## Tutorials
 
-- [R Tutorial A: Basics](https://draft.ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/r-tutorial-a-basics/)          
-- [R Tutorial B: Random Numbers](https://draft.ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/r-tutorial-b-random-numbers/)         
+- {{% resource_link "ce2e2f55-318d-4766-8420-d8ca9584cfcd" "R Tutorial A: Basics" %}}          
+- {{% resource_link "cd00eeb4-7f89-4b19-8229-3a16b5829224" "R Tutorial B: Random Numbers" %}}         
 - {{% resource_link "0b200191-a15a-4922-912e-d8713eafef15" "R Tutorial: Functions" %}} (The basics of creating functions)          
 - {{% resource_link "8f79bf68-d3fe-4d0d-8c69-ec768107be13" "Sample Plotting Script (R)" %}} (Short script showing basic plotting in R)          
 - {{% resource_link "8321e26a-a623-43e0-963c-0e5faf60910e" "R Tutorial: for Loops" %}} (Basics of for loops)          
